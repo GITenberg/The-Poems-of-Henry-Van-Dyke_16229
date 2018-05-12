@@ -1,0 +1,36 @@
+_repo: The-Poems-of-Henry-Van-Dyke_16229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry I. Van
+    - Dyke, Henry Van
+    - Dyke, Henry Jackson Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_issued: '2005-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+tableOfContents: 'Songs out of doors, early verses -- Songs out of doors, later poems
+  -- Narrative poems -- Labour and romance -- Hearth and altar -- Epigrams, greetings,
+  and inscriptions -- Pro patria -- The red flower and golden stars -- In praise of
+  poets -- Music -- The house of Rimmon, a drama in four acts -- Appendix: Carmina
+  festiva.'
+title: The Poems of Henry Van Dyke
+url: http://www.gutenberg.org/ebooks/16229
